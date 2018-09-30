@@ -10,7 +10,7 @@ title: The New Jazz Podcast
 email: nsimoneaux@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   "Jazz is a conversation between friends."
-  baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://newjazzpodcast.com" # the base hostname & protocol for your site
 twitter_username: infinityl00ps
 github_username:  nsimoneaux
